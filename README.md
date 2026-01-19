@@ -1,6 +1,6 @@
-# 📄 Doc-AI — Document Question Answering System
+# 📄 Lexora — Document Question Answering System
 
-Doc-AI is a Retrieval-Augmented Generation (RAG) based system that enables users to ask natural language questions over uploaded PDF documents and receive grounded, context-aware answers.
+Lexora is a Retrieval-Augmented Generation (RAG) based system that enables users to ask natural language questions over uploaded PDF documents and receive grounded, context-aware answers.
 
 ---
 
