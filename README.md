@@ -170,7 +170,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Sugan Raj**
+**Suganraj S**
 Final Year CSE | AI & Backend Enthusiast
 
 ---
