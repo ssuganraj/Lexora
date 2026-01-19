@@ -1,6 +1,6 @@
-# 📄 DocAI-RAG
+# 📄 Lexora-RAG
 
-A **production-style Document Question Answering system** built using **Retrieval-Augmented Generation (RAG)**. DocAI-RAG allows users to upload PDFs and ask natural language questions, with answers grounded strictly in the document content.
+A **production-style Document Question Answering system** built using **Retrieval-Augmented Generation (RAG)**. Lexora allows users to upload PDFs and ask natural language questions, with answers grounded strictly in the document content.
 
 ---
 
